@@ -3,7 +3,12 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">Hello</header>
+      <div className="container">
+        <header className="App-header">Hello</header>
+        <footer className="text-center">
+          Coded by Nimi Dada, open-sourced
+        </footer>
+      </div>
     </div>
   );
 }
