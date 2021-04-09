@@ -1,5 +1,7 @@
 import React from "react";
+import "./Dictionary.css";
 
 export default function Dictionary() {
-  return "Serendipity";
+  return;
+  <div className="Serendipity">Dictionary</div>;
 }
